@@ -82,4 +82,4 @@ typing_extensions==4.16.0
 urllib3==2.8.0
 virtualenv==21.13.0
 websocket-client==0.59.0
-wrapt==2.4.1
+wrapt==2.4.2rc1
